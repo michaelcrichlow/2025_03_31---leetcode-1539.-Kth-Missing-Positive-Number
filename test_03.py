@@ -1,5 +1,5 @@
 # leetcode 1539. Kth Missing Positive Number
-
+# NOTE: All solutions passed, but Solution 03 is the fastest.
 
 # Solution 01
 def findKthPositive_00(arr: list[int], k: int) -> int:
